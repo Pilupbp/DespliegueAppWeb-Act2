@@ -1,5 +1,6 @@
 ![](1.jpg)
 ### Actividad 2. Tarea Individual. Configuración de Servidor.
+
 ### Pilar Bermejo 2 DAW
 [[https://github.com/Pilupbp/despliegueAppWeb](https://github.com/Pilupbp/despliegueAppWeb)
 ](#)
